@@ -1,12 +1,14 @@
 Modifications made to gutenberg html files
 ==========================================
-1)I removed all the intro text divsfrom every document which outlines details of the ebook and copywrite details
+1)I removed all the intro text divs from every document which outlines details of the ebook and copyright details
 
 2)I added a few hr tags for changes the theme
 
 3)I added the html tags for my custom fonts in the head tag
 
-4)And of course, moved all the CSS to a separate file to standardize one CSS for 3 documents
+4) I changed the cover image urls to cover1,cover2 respectively so that they all are in a single directory
+
+5)And of course, moved all the CSS to a separate file to standardize one CSS for 3 documents
 
 
 
