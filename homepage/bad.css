@@ -1,0 +1,145 @@
+body {
+          
+    background-image: url('bg.jpg');
+    margin-left:10%;
+    margin-right:10%;
+    max-width: 1400px;
+    width:1400px;
+    
+    
+    
+ 
+text-align: justify;
+}
+.head{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    transform: rotate(-19deg);
+    text-shadow: 3px 3px 3px #000000;
+    font-size: 60px;
+    background-image: linear-gradient(red, yellow, green);
+    font-family: 'Climate Crisis', cursive;
+    
+    border-radius: 25px;
+    width: 1000px;
+    
+
+    
+    
+    
+}
+
+#wrapper {
+    
+    width:2000px;
+}
+.all{
+    
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+    max-width: 1000px;
+    height: 2000px;
+    border-radius: 25px;
+    overflow: hidden;
+    width:1000px;
+    display: inline-block;
+    
+   
+    
+    
+}
+.sidebar{
+    background: rgba(243, 0, 41, 0.952);
+    text-align: justify;
+    margin-left: 2px;
+    border-radius: 25px;
+    font-weight: bold;
+    width: 285px;
+    height: 1600px;
+    padding: 20px 0;
+    border: 5px solid gray  ;
+    display: inline-block;
+    font-family: 'Dancing Script', cursive;
+    overflow: hidden;
+    position: relative;
+    bottom:450px;
+    transform: rotate(19deg);
+    
+    
+    
+}
+
+.body{
+    
+    font-family: 'Climate Crisis', cursive;
+    font-size:15px;
+    position: absolute;
+    color: #333;
+    font-weight: bold;
+    max-width: 1280px;
+    line-height: 1.6;
+    margin-left:2%;
+    padding-right:500px;
+    width:800px;
+}
+
+.pp{
+    position: relative; /* Declared position allows for location changes */
+    top: -22px; /* Moves the image 2px closer to the top of the page */
+    padding:2px;
+    width :222px;
+    height:900px;
+}
+.wood{
+    width:912px;
+    
+    position: relative;
+    top: -20px;
+    left: -20px;
+}
+p{
+    font-size:15px;
+    color:#333;
+}
+
+h1{
+    font-weight: bold;
+    font-family: 'PT Serif', serif;
+    font-size:50px;
+}
+h3{
+    font-size:20px
+}
+h2{
+    margin-left:2px;
+
+}
+
+hr {
+    border: none;
+    border-top: 60px double #3d3c3c;
+    color: red;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: red;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+.aligned {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;margin-left:2px;
+}
+  
+a {
+    font-size:12px;
+    padding: 10px;
+    font-family: 'Climate Crisis', cursive;
+}

@@ -1,0 +1,142 @@
+body {
+          
+    background-image: url('bg.jpg');
+    margin-left:10%;
+    margin-right:10%;
+    max-width: 900px;
+    width:900px;
+    
+    
+    
+ 
+text-align: justify;
+}
+.head{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 3px #000000;
+    font-size: 30px;
+    background-image: url('header.jpg');
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 25px;
+    width: 1000x;
+    
+
+    
+    
+    
+}
+
+#wrapper {
+    
+    width:2000px;
+}
+.all{
+    
+    background-color: rgb(255, 255, 255);
+    max-width: 1000px;
+    height: 2000px;
+    border-radius: 25px;
+    overflow: hidden;
+    width:1000px;
+    display: inline-block;
+    
+   
+    
+    
+}
+.sidebar{
+    background: rgb(227, 227, 227);
+    text-align: justify;
+    margin-left: 2px;
+    border-radius: 25px;
+    font-weight: bold;
+    width: 285px;
+    height: 710px;
+    padding: 20px 0;
+    border: 5px solid gray  ;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    overflow: hidden;
+    position: relative;
+    bottom:1241px;
+    
+    
+    
+}
+
+.body{
+    
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    color: #333;
+    font-weight: bold;
+    max-width: 1280px;
+    line-height: 1.6;
+    margin-left:2%;
+    padding-right:500px;
+    width:800px;
+}
+
+.pp{
+    position: relative; /* Declared position allows for location changes */
+    top: -22px; /* Moves the image 2px closer to the top of the page */
+    padding:2px;
+    width :280px;
+    
+}
+.wood{
+    width:912px;
+    
+    position: relative;
+    top: -20px;
+    left: -20px;
+}
+p{
+    font-size:15px;
+    color:#333;
+}
+
+h1{
+    font-weight: bold;
+    font-family: 'Arial';
+    
+}
+h3{
+    font-size:20px
+}
+h2{
+    margin-left:2px;
+    font-size:20px;
+    text-align: center;
+
+}
+
+hr {
+    border: none;
+    border-top: 4px double #3d3c3c;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+.aligned {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;margin-left:2px;
+}
+  
+a {
+    font-size:12px;
+    padding: 10px;
+}
